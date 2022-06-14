@@ -1,6 +1,6 @@
 # writingthesreprts
 Easy work and result focused thesis/report/etc writing using [LyX](http://lyx.org)- removing much LaTeX learning. http://lyx.org <br/>
-please view https://bewketut.github.com/index1.html
+please view https://bewketut.github.io/index1.html
 and the now updated....https://github.com/bewketut/thesis/
 Most Universities these days are crazy giving both put LaTeX and work at the same time. <br/>
 What I show you here is how to slow down things a little bit in LaTeX learning 
